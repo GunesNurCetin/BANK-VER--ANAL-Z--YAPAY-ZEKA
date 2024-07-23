@@ -1,5 +1,6 @@
 BANKA - VERİ ANALİZİ 
-Bu kod, bir veri seti üzerinde Mixed Naive Bayes sınıflandırma algoritmasını kullanarak model eğitimi ve test işlemlerini gerçekleştirir. İşte kodun detaylı işleyişi:
+Bu kod, bir veri seti üzerinde Mixed Naive Bayes sınıflandırma algoritmasını kullanarak model eğitimi ve test işlemlerini gerçekleştirir.
+İşte kodun detaylı işleyişi:
 
 1. Veri Setinin Okunması ve İncelenmesi
 Veri seti bank-full.csv dosyasından yüklenir ve genel istatistikleri ekrana yazdırılır.
