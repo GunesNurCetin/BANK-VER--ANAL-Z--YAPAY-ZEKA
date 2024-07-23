@@ -16,7 +16,8 @@ Test verileri üzerinde tahminler yapılır ve etiketler geri dönüştürülür
 Modelin performansı karmaşıklık matrisi ile değerlendirilir.
 Performans metrikleri (True Negatives, False Positives, False Negatives, True Positives) hesaplanır ve yazdırılır.
 Sınıflandırma raporu ile modelin precision, recall, F1-score gibi performans metrikleri özetlenir.
-Özet
+
+
 Bu kod, bir banka veri seti üzerinde Mixed Naive Bayes sınıflandırıcısını kullanarak model eğitir ve test eder.
 Verinin kategorik nitelikleri sayısal değerlere dönüştürülür, veri eğitim ve test setlerine ayrılır, model eğitilir,
 tahminler yapılır ve modelin performansı karmaşıklık matrisi ve sınıflandırma raporu ile değerlendirilir.
