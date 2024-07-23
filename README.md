@@ -21,9 +21,6 @@ Verinin kategorik nitelikleri sayısal değerlere dönüştürülür, veri eğit
 tahminler yapılır ve modelin performansı karmaşıklık matrisi ve sınıflandırma raporu ile değerlendirilir.
 
 BANKA MARKETİNG
-Tabii, işte sadece yazılar:
-
----
 
 Bu kod, Naive Bayes algoritmasını kullanarak bir veri setinin (bank marketing veri seti) 
 sınıflandırma performansını değerlendiren bir örnek çalışmadır.
